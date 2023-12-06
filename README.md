@@ -7,12 +7,6 @@
 - 💼   Front-end web/mobile developer.
 
 
-<div style="text-align:center">
-<a href="https://github.com/ThiagoCas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCas&show_icons=true&count_private=true&theme=radical" />
-</a>
-</div>
-
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
